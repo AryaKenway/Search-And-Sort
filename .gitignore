@@ -100,3 +100,26 @@ crashlytics-build.properties
 [Aa]ssets/Photon/PhotonVoice/Demos/
 [Aa]ssets/Photon/Doc/
 [Aa]ssets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+
+# ============================
+# DOTween
+# ============================
+[Aa]ssets/Demigiant/DOTween/Editor/Resources/DOTweenSettings.asset
+[Aa]ssets/Demigiant/DOTween/DOTween.XML
+[Aa]ssets/Demigiant/DOTween/DOTween.asmdef.meta
+[Aa]ssets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+[Aa]ssets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+[Aa]ssets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+[Aa]ssets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+[Aa]ssets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+
+# ============================
+# TextMesh Pro
+# ============================
+[Aa]ssets/TextMesh Pro/Resources/TMP Settings.asset
+[Aa]ssets/TextMesh Pro/Resources/Fonts & Materials/
+[Aa]ssets/TextMesh Pro/Documentation/
+[Aa]ssets/TextMesh Pro/Examples & Extras/
+
+
+
